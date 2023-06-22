@@ -1,6 +1,7 @@
 # Smart Farming Tracking & Monitoring Cloud Based AI App
 
 Its a Flutter mobile app project. Its also included python fastAPI web services and deep learning models developed by me.
+There has no flutter & python code for now. But it will be add.
 
 ## Getting Started
 
